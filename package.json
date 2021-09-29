@@ -36,7 +36,7 @@
     "http": "0.0.1-security",
     "http-errors": "^1.7.3",
     "http-sender": "^4.0.0",
-    "i": "^0.3.6",
+    "i": "^0.3.7",
     "install": "^0.13.0",
     "jimp": "^0.9.8",
     "klasa": "^0.4.0",
